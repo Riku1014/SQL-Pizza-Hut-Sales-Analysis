@@ -1,6 +1,6 @@
 # Pizza Hut Sales Analysis
 
-![PIZZA_SALES]("https://github.com/Riku1014/SQL-Pizza-Hut-Sales-Analysis/assets/151837914/31da5976-790a-4047-9db3-d914d6a9b475")
+![PIZZA SALES](https://github.com/Riku1014/SQL-Pizza-Hut-Sales-Analysis/assets/151837914/31da5976-790a-4047-9db3-d914d6a9b475)
 
 ## Overview
 This project involves the analysis of Pizza Hut sales data using SQL. The goal is to derive meaningful insights and trends from the dataset, which includes details about orders, pizzas, pizza types, and order details. The analysis was conducted using a series of SQL queries to explore various aspects of the sales data.
