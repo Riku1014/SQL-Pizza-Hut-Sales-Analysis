@@ -54,6 +54,11 @@ Here is the list of SQL queries used in the analysis:
 ### 5.
 ![WhatsApp Image 2024-05-23 at 19 42 32_cb34b557](https://github.com/Riku1014/SQL-Pizza-Hut-Sales-Analysis/assets/151837914/3de3b837-d4d0-4aeb-8e41-f8fb612648cd)
 
+## Conclusion
+This analysis provided valuable insights into Pizza Hut sales, including revenue generation, popular pizzas, and order patterns. Utilizing SQL for data analysis allowed for efficient data manipulation and extraction of meaningful information. The interactive Power BI dashboard further enhanced data visualization and interpretation.
+
+
+
 
 
 
