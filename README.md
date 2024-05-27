@@ -43,5 +43,21 @@ Database Management System: MySQL for executing SQL queries and managing the dat
 ## Queries Executed
 
 Here is the list of SQL queries used in the analysis:
+### 1.
+![WhatsApp Image 2024-05-23 at 19 56 41_1568a813](https://github.com/Riku1014/SQL-Pizza-Hut-Sales-Analysis/assets/151837914/2b10e59d-0d18-49ca-9327-d596a48b445d)
+### 2.
+![WhatsApp Image 2024-05-23 at 20 36 22_c8a3f4af](https://github.com/Riku1014/SQL-Pizza-Hut-Sales-Analysis/assets/151837914/5428ee50-c6c2-479e-995c-0598d3092954)
+### 3.
+![WhatsApp Image 2024-05-23 at 21 23 11_6a75f678](https://github.com/Riku1014/SQL-Pizza-Hut-Sales-Analysis/assets/151837914/a0bf480b-cd71-4d4a-95a7-460f0b8d08ad)
+### 4.
+![WhatsApp Image 2024-05-23 at 21 23 57_f2820dcd](https://github.com/Riku1014/SQL-Pizza-Hut-Sales-Analysis/assets/151837914/746bda54-2bcc-452e-ae9e-4d7205b1f95a)
+### 5.
+![WhatsApp Image 2024-05-23 at 19 42 32_cb34b557](https://github.com/Riku1014/SQL-Pizza-Hut-Sales-Analysis/assets/151837914/3de3b837-d4d0-4aeb-8e41-f8fb612648cd)
 
-![image_11](C:/Users/hp/Pictures/Screenshots/Screenshot 2024-05-23 195631.png)
+
+
+
+
+
+
+
