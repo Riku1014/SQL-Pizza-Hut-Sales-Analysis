@@ -43,3 +43,5 @@ Database Management System: MySQL for executing SQL queries and managing the dat
 ## Queries Executed
 
 Here is the list of SQL queries used in the analysis:
+
+![image_11](C:/Users/hp/Pictures/Screenshots/Screenshot 2024-05-23 195631.png)
