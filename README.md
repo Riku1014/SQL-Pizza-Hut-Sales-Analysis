@@ -57,6 +57,8 @@ Here is the list of SQL queries used in the analysis:
 ## Conclusion
 This analysis provided valuable insights into Pizza Hut sales, including revenue generation, popular pizzas, and order patterns. Utilizing SQL for data analysis allowed for efficient data manipulation and extraction of meaningful information. The interactive Power BI dashboard further enhanced data visualization and interpretation.
 
+- <a href="https://github.com/Riku1014"> Rishab Sen</a>
+
 
 
 
