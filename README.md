@@ -1,4 +1,7 @@
 # Pizza Hut Sales Analysis
+
+![PIZZA_SALES]("C:\Users\hp\Downloads\flat-lay-pizza-box-with-calculator.jpg")
+
 ## Overview
 This project involves the analysis of Pizza Hut sales data using SQL. The goal is to derive meaningful insights and trends from the dataset, which includes details about orders, pizzas, pizza types, and order details. The analysis was conducted using a series of SQL queries to explore various aspects of the sales data.
 
